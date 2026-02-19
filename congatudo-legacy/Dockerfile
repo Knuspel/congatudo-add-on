@@ -1,4 +1,4 @@
-FROM ghcr.io/congatudo/old-congatudo:homeassistant-latest
+FROM ghcr.io/knuspel/old-congatudo:homeassistant-latest
 
 # Change user to root
 USER root

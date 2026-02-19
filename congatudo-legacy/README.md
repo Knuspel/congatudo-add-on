@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/congatudo/congatudo-add-on/blob/main/images/logo.png?raw=true" alt="congatudo">
+    <img src="https://github.com/knuspel/congatudo-add-on/blob/main/images/logo.png?raw=true" alt="congatudo">
     <p align="center"><h2>Free your vacuum from the cloud</h2></p>
 </div>
 
@@ -7,4 +7,4 @@
 
 ### Instructions
 Congatudo add-on pointing to a fixed legacy version supporting zones (highly recomended for Conga 3090)
-See the [README on GitHub](https://github.com/congatudo/congatudo-add-on) for all the details.
+See the [README on GitHub](https://github.com/knuspel/congatudo-add-on) for all the details.

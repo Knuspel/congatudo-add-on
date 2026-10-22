@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026.10 - 2026-10-22
+
+- Update base image to [Congatudo 2026.10.0](https://github.com/knuspel/Congatudo/releases/tag/2026.10.0)
+
+
 ## 2024.04 - 2024-04-28
 
 - Update base image to [Congatudo 2024.04](https://github.com/congatudo/Congatudo/releases/tag/2024.04)
